@@ -1,6 +1,5 @@
 import logging
 from pathlib import Path
-
 from nbformat import read, write, NO_CONVERT
 
 logging.basicConfig(level=logging.DEBUG)
